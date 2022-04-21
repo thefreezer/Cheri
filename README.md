@@ -12,5 +12,5 @@ A centralized coupon application that helps users maximize their savings on each
 - Data: flyers and coupons
 
 # Tech Stack
-- Front-end: Flutter (Golang)
+- Front-end: Flutter + Dart
 - Back-end: Firebase + Golang 
